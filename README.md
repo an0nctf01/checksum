@@ -1,2 +1,5 @@
-Revamping Final Version ...
-Soon
+First Alpha Version Released!
+
+* SFX CHECKER ZIP (PK / MZ) HASH SAFETY CHECKER
+* MD5/ SHA HASH
+* MADE WITH TKINTER
